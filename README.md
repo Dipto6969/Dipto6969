@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🌱 I'm currently learning Huggingface and Google Collab
-- 📫 How to reach me: dipto.np124@gmail.com
+- 📫 **How to reach me:** [dipto.np124@gmail.com](https://mail.google.com/mail/?view=cm&to=dipto.np124@gmail.com)
 - ⚡ Fun fact:  I’ve watched movies and series in over 30 different languages — from Hollywood blockbusters to indie gems in Persian, Tamil thrillers to Korean zombie runs, and even anime in raw Japanese. If cinema were a language, I’d be fluent in every dialect.
 
 ## 🛠️ Tech Stack
@@ -106,7 +106,7 @@ Implemented automated grade calculation and ensured conflict-free exam schedulin
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohtasim-dipto/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipto.np124@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=dipto.np124@gmail.com)
 </div>
 
 ## 💭 Random Dev Quote
@@ -124,7 +124,7 @@ Implemented automated grade calculation and ensured conflict-free exam schedulin
 
 <div align="center">
   <p><strong>🎧 Espresso — Sabrina Carpenter</strong></p>
-  <img src="https://i.scdn.co/image/ab67616d0000b273e0a15de8d9bfa45192fa9e3d" alt="Espresso Cover Art" width="300px" />
+  <img src="[https://i.scdn.co/image/ab67616d0000b273e0a15de8d9bfa45192fa9e3d](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz?si=17db0ccf2cb1439c)" alt="Espresso Cover Art" width="300px" />
   <p><em>— On repeat, obviously.</em></p>
 </div>
 
