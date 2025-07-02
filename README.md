@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning Huggingface and Google Collab
 - 📫 How to reach me: dipto.np124@gmail.com
-- ⚡ Fun fact:I’ve watched movies and series in over 30 different languages — from Hollywood blockbusters to indie gems in Persian, Tamil thrillers to Korean zombie runs, and even anime in raw Japanese. If cinema were a language, I’d be fluent in every dialect.
+- ⚡ Fun fact:  I’ve watched movies and series in over 30 different languages — from Hollywood blockbusters to indie gems in Persian, Tamil thrillers to Korean zombie runs, and even anime in raw Japanese. If cinema were a language, I’d be fluent in every dialect.
 
 ## 🛠️ Tech Stack
 
@@ -69,33 +69,44 @@
 ## 🎯 Featured Projects
 
 ### 🚀 [Learnify– Learning Platform for Students & Educators ](https://github.com/Dipto6969/Learnify)
- Next.js, Tailwind CSS, Node.js, Express.js, PostgreSQL, Stripe
-– Developed a full-stack platform for course enrollment, progress tracking, and media-based learning.
-– Implemented secure payments via Stripe and dynamic dashboards for students, teachers, and admins.
-– Enabled media uploads and tracked chapter-wise student progress.
 
-### 💡 [Project Name 2](https://github.com/yourusername/project2)
-**Description:** Brief description of your project and what it does.
-- **Tech Stack:** Python, Django, PostgreSQL
-- **Features:** Key features of your project
-- 🌟 **[Live Demo](https://your-demo-link.com)** | 📖 **[Documentation](https://your-docs-link.com)**
+Tech Stack: Next.js · Tailwind CSS · Node.js · Express.js · PostgreSQL · Stripe
 
-### 🔧 [Project Name 3](https://github.com/yourusername/project3)
-**Description:** Brief description of your project and what it does.
-- **Tech Stack:** Vue.js, Express.js, MySQL
-- **Features:** Key features of your project
-- 🌟 **[Live Demo](https://your-demo-link.com)** | 📖 **[Documentation](https://your-docs-link.com)**
+A full-stack web platform designed for seamless learning experiences and efficient course management.
+
+🔧 Features:
+🎓 Role-based dashboards for students, teachers, and admins
+
+💳 Secure payments via Stripe with real-time progress tracking
+
+📤 Media uploads and interactive chapter-wise learning
+
+### 💡 [Chat-App – Real-Time Messaging Application](https://github.com/Dipto6969/CHAT-APP)
+
+Tech Stack: MERN Stack · Socket.IO · JWT · WebSocket
+
+Built a real-time chat app featuring instant messaging and user presence tracking.
+
+Implemented JWT-based authentication for secure user login.
+
+Enabled Socket.IO-powered WebSocket communication for seamless real-time interaction.
+
+### 🔧 [Examination Management System](https://github.com/Dipto6969/Examination-Management-System)
+Tech Stack: Java · PostgreSQL · PL/pgSQL · Maven/Gradle
+
+Developed a role-based platform to manage exam schedules, records, and automated result generation.
+
+Designed a secure admin dashboard with conflict-free scheduling logic.
+
+Implemented automated grade calculation and ensured conflict-free exam scheduling.
+
 
 ## 🤝 Connect with Me
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohtasim-dipto/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipto.np124@gmail.com)
 </div>
 
 ## 💭 Random Dev Quote
@@ -107,7 +118,8 @@
 ## 🎵 Currently Listening To
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <p><em>Quoted by Mohtasim Dipto</em></p>
 </div>
 
 ---
