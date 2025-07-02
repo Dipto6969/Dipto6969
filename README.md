@@ -120,9 +120,6 @@ Implemented automated grade calculation and ensured conflict-free exam schedulin
   <p><em>— Quoted by Mohtasim Dipto</em></p>
 </div>
 
-
-## 🎵 Currently Listening To
-
 ## 🎵 Currently Listening To
 
 <div align="center">
