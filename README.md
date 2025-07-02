@@ -112,20 +112,29 @@ Implemented automated grade calculation and ensured conflict-free exam schedulin
 ## 💭 Random Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <p><strong>- I HATE CODING</strong></p>
+  <p><strong>- I HATE CODING</strong></p>
+  <p><strong>- I HATE CODING</strong></p>
+  <p><strong>- IT WORKS!</strong></p>
+  <p><strong>- I LOVE CODING</strong></p>
+  <p><em>— Quoted by Mohtasim Dipto</em></p>
 </div>
+
+
+## 🎵 Currently Listening To
 
 ## 🎵 Currently Listening To
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-  <p><em>Quoted by Mohtasim Dipto</em></p>
+  <p><strong>🎧 Espresso — Sabrina Carpenter</strong></p>
+  <img src="https://i.scdn.co/image/ab67616d0000b273e0a15de8d9bfa45192fa9e3d" alt="Espresso Cover Art" width="300px" />
+  <p><em>— On repeat, obviously.</em></p>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dipto6969&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
   **Thanks for visiting! 😊**
   
