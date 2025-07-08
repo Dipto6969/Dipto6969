@@ -109,25 +109,6 @@ Implemented automated grade calculation and ensured conflict-free exam schedulin
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=dipto.np124@gmail.com)
 </div>
 
-## 💭 Random Dev Quote
-
-<div align="center">
-  <p><strong>- I HATE CODING</strong></p>
-  <p><strong>- I HATE CODING</strong></p>
-  <p><strong>- I HATE CODING</strong></p>
-  <p><strong>- IT WORKS!</strong></p>
-  <p><strong>- I LOVE CODING</strong></p>
-  <p><em>— Quoted by Mohtasim Dipto</em></p>
-</div>
-
-## 🎵 Currently Listening To
-
-<div align="center">
-  <p><strong>🎧 Espresso — Sabrina Carpenter</strong></p>
-  <img src="[https://i.scdn.co/image/ab67616d0000b273e0a15de8d9bfa45192fa9e3d](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz?si=17db0ccf2cb1439c)" alt="Espresso Cover Art" width="300px" />
-  <p><em>— On repeat, obviously.</em></p>
-</div>
-
 ---
 
 <div align="center">
