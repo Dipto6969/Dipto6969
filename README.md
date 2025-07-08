@@ -54,11 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipto6969&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dipto6969&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ## 📈 Activity Graph
 
