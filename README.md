@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I'm currently learning Huggingface and Google Collab
+- 🌱 I'm currently learning Huggingface and Google Colab
 - 📫 **How to reach me:** [dipto.np124@gmail.com](https://mail.google.com/mail/?view=cm&to=dipto.np124@gmail.com)
 - ⚡ Fun fact:  I’ve watched movies and series in over 30 different languages — from Hollywood blockbusters to indie gems in Persian, Tamil thrillers to Korean zombie runs, and even anime in raw Japanese. If cinema were a language, I’d be fluent in every dialect.
 
