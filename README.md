@@ -1,116 +1,467 @@
-# Hi there, I'm Mohtasim Dipto 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Always+Learning" alt="Typing SVG" />
-</div>
 
-## 🚀 About Me
+# Hi, I'm Mohtasim Dipto 👋
 
-- 🌱 I'm currently learning Huggingface and Google Colab
-- 📫 **How to reach me:** [dipto.np124@gmail.com](https://mail.google.com/mail/?view=cm&to=dipto.np124@gmail.com)
-- ⚡ Fun fact:  I’ve watched movies and series in over 30 different languages — from Hollywood blockbusters to indie gems in Persian, Tamil thrillers to Korean zombie runs, and even anime in raw Japanese. If cinema were a language, I’d be fluent in every dialect.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3ABEF9&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;Full-Stack+Developer;Problem+Solver+%7C+Creative+Thinker;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 
-## 🛠️ Tech Stack
+### Software Engineering Student & Full-Stack Developer
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+I design and develop reliable, user-focused web applications using modern frameworks and clean UI/UX principles.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dipto6969&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dipto6969&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipto6969&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dipto6969&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 🎯 Featured Projects
-
-### 🚀 [Learnify– Learning Platform for Students & Educators ](https://github.com/Dipto6969/Learnify)
-
-Tech Stack: Next.js · Tailwind CSS · Node.js · Express.js · PostgreSQL · Stripe
-
-A full-stack web platform designed for seamless learning experiences and efficient course management.
-
-🔧 Features:
-🎓 Role-based dashboards for students, teachers, and admins
-
-💳 Secure payments via Stripe with real-time progress tracking
-
-📤 Media uploads and interactive chapter-wise learning
-
-### 💡 [Chat-App – Real-Time Messaging Application](https://github.com/Dipto6969/CHAT-APP)
-
-Tech Stack: MERN Stack · Socket.IO · JWT · WebSocket
-
-Built a real-time chat app featuring instant messaging and user presence tracking.
-
-Implemented JWT-based authentication for secure user login.
-
-Enabled Socket.IO-powered WebSocket communication for seamless real-time interaction.
-
-### 🔧 [Examination Management System](https://github.com/Dipto6969/Examination-Management-System)
-Tech Stack: Java · PostgreSQL · PL/pgSQL · Maven/Gradle
-
-Developed a role-based platform to manage exam schedules, records, and automated result generation.
-
-Designed a secure admin dashboard with conflict-free scheduling logic.
-
-Implemented automated grade calculation and ensured conflict-free exam scheduling.
-
-
-## 🤝 Connect with Me
-
-<div align="center">
-  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-official-portfolio-nine.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohtasim-dipto/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=dipto.np124@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipto.np124@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dipto6969)
+
+</div>
+
+---
+
+## 💼 About Me
+
+<div align="center">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║     ███╗   ███╗ ██████╗ ██╗  ██╗████████╗ █████╗ ███████╗██╗███╗   ███╗    ║
+║     ████╗ ████║██╔═══██╗██║  ██║╚══██╔══╝██╔══██╗██╔════╝██║████╗ ████║    ║
+║     ██╔████╔██║██║   ██║███████║   ██║   ███████║███████╗██║██╔████╔██║    ║
+║     ██║╚██╔╝██║██║   ██║██╔══██║   ██║   ██╔══██║╚════██║██║██║╚██╔╝██║    ║
+║     ██║ ╚═╝ ██║╚██████╔╝██║  ██║   ██║   ██║  ██║███████║██║██║ ╚═╝ ██║    ║
+║     ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝╚═╝     ╚═╝    ║
+║                                                                               ║
+║                   Software Engineering Student & Developer                   ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Profile
+
+```yaml
+name: Mohtasim Dipto
+role: Full-Stack Developer
+education: |
+  BSc in Software Engineering
+  Islamic University of Technology
+location: Dhaka, Bangladesh 🇧🇩
+experience: 3+ years (University Projects)
+status: Open to opportunities
+```
+
+### 🎯 Core Strengths
+
+```diff
++ Problem Solving & Analytical Thinking
++ Creative & Innovative Approach
++ Efficient Time Management
++ Collaborative Team Player
++ Quick Learner & Adaptable
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Current Focus
+
+```javascript
+const currentlyWorking = {
+  learning: [
+    "🤗 Hugging Face Transformers",
+    "🧪 Google Colab & ML Pipelines",
+    "🤖 AI/ML Integration in Web Apps"
+  ],
+  building: [
+    "📱 Scalable Full-Stack Applications",
+    "☁️ Cloud-Native Solutions",
+    "🎨 Modern UI/UX Experiences"
+  ],
+  exploring: [
+    "🔮 Advanced System Design",
+    "⚡ Performance Optimization",
+    "🐳 DevOps & Containerization"
+  ]
+};
+```
+
+### 💡 Passion Areas
+
+```python
+passions = {
+    'web_dev': ['React', 'Next.js', 'Node.js'],
+    'cloud': ['Azure', 'Serverless', 'Microservices'],
+    'design': ['UI/UX', 'Responsive', 'Accessibility'],
+    'fun_fact': '🎬 Cinema polyglot - 30+ languages!'
+}
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📊 What I Do Daily
+
+```mermaid
+mindmap
+  root((Mohtasim 😌))
+    🌴
+      🎧
+    💻 Coding
+      Building Cool Projects
+      Web & Mobile Apps
+      Learning New Tech
+      Solving Bugs 🐛
+    🎬 Entertainment
+      Movies 🍿
+      TV Series 📺
+      Anime 🎌
+    🎮 Gaming
+      PC Games
+      Casual Mobile Games
+      Multiplayer with Friends
+    🧠 Growth
+      Exploring Ideas
+      Improving Skills
+      Trying New Things
+    🤝 Social
+      Friends & Community
+      Open Source
+      Team Collaboration
+```
+
+</div>
+
+<div align="center">
+
+### 🔥 Quick Stats
+
+| 🎯 Focus | 💼 Expertise | 🌟 Approach |
+|:--------:|:------------:|:-----------:|
+| **AI/ML Integration** | **Full-Stack Development** | **User-Centric** |
+| Learning Transformers | MERN + Next.js Stack | Design First |
+| Google Colab Projects | Cloud Computing | Scalable Solutions |
+| Model Fine-tuning | RESTful APIs | Clean Code |
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dipto6969&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
-  **Thanks for visiting! 😊**
-  
-  *Feel free to reach out if you want to collaborate on any projects or just have a chat about technology!*
+
+### 📬 Let's Connect
+
+[![Email](https://img.shields.io/badge/📧_Email-dipto.np124@gmail.com-D14836?style=for-the-badge&labelColor=1a1a1a)](mailto:dipto.np124@gmail.com)
+[![Phone](https://img.shields.io/badge/📱_Phone-+880_1671942845-25D366?style=for-the-badge&labelColor=1a1a1a)](tel:+8801671942845)
+
+```typescript
+// Current Status
+const status = {
+    code: "Turning coffee into code ☕",
+    learning: "Always exploring new tech 🚀",
+    collaboration: "Open for interesting projects 🤝",
+    availability: "Ready to build something amazing! ✨"
+};
+```
+
+</div>
+
+---
+
+## 🛠️ Technical Skills
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+<td width="25%" align="center">
+
+### Web & Backend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+
+</td>
+<td width="25%" align="center">
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+
+</td>
+<td width="25%" align="center">
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 [Learnify](https://github.com/Dipto6969/Learnify)
+
+**Learning Platform for Students & Educators**  
+*Oct 2024 – Dec 2024*
+
+Full-stack web platform designed for seamless learning experiences and efficient course management.
+
+**Tech Stack:**  
+`Next.js` `Tailwind CSS` `Node.js` `Express.js` `PostgreSQL` `Stripe`
+
+**Key Features:**
+- ✅ Developed full-stack platform for course enrollment and progress tracking
+- ✅ Implemented secure payment processing via Stripe
+- ✅ Dynamic dashboards for students, teachers, and admins
+- ✅ Media uploads and chapter-wise progress tracking
+
+</td>
+<td width="50%">
+
+### 🚔 [Police-Positive](https://github.com/Dipto6969)
+
+**Bridging Citizens and Police with Transparency**  
+*July 2025 – September 2025*
+
+Smart dashboard connecting civilians, police operators, and supervisors for efficient crime reporting and management.
+
+**Tech Stack:**  
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+
+**Key Features:**
+- ✅ Real-time incident reporting with AI-driven chatbot for GD/FIR
+- ✅ Operator alerts for crimes and emergencies
+- ✅ Supervisor tools with performance metrics and corruption detection
+- ✅ Evidence uploads, case tracking, and anonymous reporting
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 [Chat-App](https://github.com/Dipto6969/CHAT-APP)
+
+**Real-Time Messaging Application**  
+*Aug 2024 – Sept 2024*
+
+Built a real-time chat application featuring instant messaging and user presence tracking with modern web technologies.
+
+**Tech Stack:**  
+`MERN Stack` `Socket.IO` `JWT` `WebSocket`
+
+**Key Features:**
+- ✅ Real-time messaging with Socket.IO
+- ✅ JWT-based secure authentication
+- ✅ User presence and typing indicators
+- ✅ Message history and instant notifications
+
+</td>
+<td width="50%">
+
+### 📝 [Examination Management System](https://github.com/Dipto6969/Examination-Management-System)
+
+**Enterprise Exam Management**  
+*Nov 2023 – Dec 2023*
+
+Comprehensive role-based platform to manage exam schedules, records, and automated result generation.
+
+**Tech Stack:**  
+`Java` `PostgreSQL` `PL/pgSQL` `Maven/Gradle`
+
+**Key Features:**
+- ✅ Automated grade calculation system
+- ✅ Conflict-free exam scheduling logic
+- ✅ Secure admin dashboard with role management
+- ✅ Comprehensive result analytics and reports
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌤️ [Console Weather App](https://github.com/Dipto6969/FindWeather)
+
+**CLI Weather Application**  
+*Jan 2025 – Feb 2025*
+
+Smart command-line weather app with multiple API integrations and intelligent fallback mechanisms.
+
+**Tech Stack:**  
+`Java` `OpenWeatherMap` `WeatherStack` `IpStack APIs` `ipify`
+
+**Key Features:**
+- ✅ Fetch weather data using IP or city name
+- ✅ Multiple API integration with intelligent fallback
+- ✅ Caching mechanism for improved performance
+- ✅ Rate limiting for smooth API usage
+
+</td>
+<td width="50%">
+
+### 🎬 [MovieTracker](https://github.com/Dipto6969/MovieTracker)
+
+**Personal Movie Management**
+
+A modern application to track, rate, and organize your movie watching experience with an elegant interface.
+
+**Tech Stack:**  
+`TypeScript` `React` `Next.js`
+
+**Key Features:**
+- ✅ Personal movie collection management
+- ✅ Rating and review system
+- ✅ Advanced search and filtering options
+- ✅ Responsive modern UI with smooth animations
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<!-- GitHub Stats (Fast) -->
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Dipto6969&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+<!-- GitHub Streak Stats (Demo) -->
+<!-- Streak (Demo) -->
+<img width="49%" src="https://streak-stats.demolab.com/?user=Dipto6969&theme=dark" alt="Streak Stats" />
+
+<!-- Contribution Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dipto6969&custom_title=Mohtasim's%20Contribution%20Graph&bg_color=0d1117&color=3ABEF9&line=3ABEF9&point=FFFFFF&area_color=3ABEF9&area=true&hide_border=true" alt="Contribution Graph" />
+
+<!-- Additional Stats -->
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dipto6969&theme=github_dark" alt="Most Used Language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dipto6969&theme=github_dark" alt="Repos Per Language" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dipto6969&theme=github_dark&utcOffset=6" alt="Productive Time" />
+
+</div>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+### 📜 Responsive Web Design Certification
+**freeCodeCamp** | [View Certificate](https://www.freecodecamp.org/certification)
+
+Learned HTML, CSS, Flexbox, Grid, and responsive design best practices through comprehensive hands-on projects.
+
+---
+
+### 🎯 Extracurricular Activities
+
+**IUT Computer Society – Volunteer**  
+Coordinated participant transportation and guided attendees during tech fest events, ensuring smooth logistical flow and enhanced participant experience.
+
+</div>
+
+---
+
+## 🎯 Current Focus & Goals
+
+```javascript
+const currentGoals2025 = {
+    learning: [
+        "Machine Learning with Hugging Face 🤗",
+        "Advanced AI Integration & LLMs",
+        "Cloud Computing & DevOps",
+        "System Design & Architecture"
+    ],
+    building: [
+        "AI-powered web applications",
+        "Scalable microservices",
+        "Real-time collaborative tools"
+    ],
+    exploring: [
+        "Serverless Architecture",
+        "Container Orchestration",
+        "Performance Optimization"
+    ]
+};
+
+console.log("Always open to collaborate on innovative projects! 🚀");
+```
+
+---
+
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm always interested in connecting with fellow developers, discussing new technologies, or collaborating on interesting projects. Feel free to reach out!
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-dipto.np124%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dipto.np124@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-official-portfolio-nine.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohtasim-dipto/)
+[![Phone](https://img.shields.io/badge/Phone-%2B880%201671942845-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801671942845)
+
+</div>
+
+---
+
+---
+
+**✨ Thanks for visiting my profile! Let's build something amazing together. ✨**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dipto6969&label=Profile%20Views&color=blueviolet&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Dipto6969?label=Followers&style=flat-square&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/Dipto6969?label=Stars&style=flat-square&color=yellow)
+
 </div>
