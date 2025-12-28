@@ -378,7 +378,6 @@ A modern application to track, rate, and organize your movie watching experience
 
 <!-- GitHub Streak Stats (Demo) -->
 <!-- Streak (Demo) -->
-<img width="49%" src="https://streak-stats.demolab.com/?user=Dipto6969&theme=dark" alt="Streak Stats" />
 
 <!-- Contribution Graph -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dipto6969&custom_title=Mohtasim's%20Contribution%20Graph&bg_color=0d1117&color=3ABEF9&line=3ABEF9&point=FFFFFF&area_color=3ABEF9&area=true&hide_border=true" alt="Contribution Graph" />
